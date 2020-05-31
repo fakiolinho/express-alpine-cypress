@@ -1,4 +1,4 @@
-# Simple landing page with expressjs
+# Simple landing page with ExpressJS, AlpineJS, TailwindCSS and Cypress
 
 ![Simple landing page with expressjs](./home.png)
 
@@ -8,6 +8,7 @@ This application is built with the following technologies:
 - Embedded JavaScript templating
 - TailwindCSS
 - AlpineJS
+- Cypress
 
 ## Development
 
